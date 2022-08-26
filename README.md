@@ -3,9 +3,9 @@
 
 ## Objectives
 
-- configure Flask to run on Docker with Postgres;
-- add Nginx and Gunicorn for production environment;
-- serve static and user-uploaded media files via Nginx;
+- Configure Flask to run on Docker with Postgres;
+- Add Nginx and Gunicorn for production environment;
+- Serve static and user-uploaded media files via Nginx;
 
 ## How to use this setup?
 
