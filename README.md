@@ -1,3 +1,12 @@
+# Flask Docker Setup
+**Tutorial:** Dockerizing Flask with Postgres, Gunicorn, and Nginx
+
+## Objectives
+
+- configure Flask to run on Docker with Postgres;
+- add Nginx and Gunicorn for production environment;
+- serve static and user-uploaded media files via Nginx;
+
 ## How to use this setup?
 
 ### Development
